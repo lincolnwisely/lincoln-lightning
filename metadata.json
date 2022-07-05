@@ -1,0 +1,6 @@
+{
+  "name": "lincoln_lightning",
+  "identifier": "lincoln.lightning",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
